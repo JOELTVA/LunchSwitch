@@ -1,0 +1,3 @@
+C:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\LunchSwitch.exe.config
+C:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.exe
+C:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.pdb

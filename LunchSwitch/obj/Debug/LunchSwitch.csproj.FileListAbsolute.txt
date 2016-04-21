@@ -1,0 +1,13 @@
+c:\users\joeltva\documents\visual studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\LunchSwitch.exe.config
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\LunchSwitch.exe
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\LunchSwitch.pdb
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.csprojResolveAssemblyReference.cache
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.Properties.Resources.resources
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.csproj.GenerateResource.Cache
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.exe
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.pdb
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\obj\Debug\LunchSwitch.FrontPage.resources
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\EntityFramework.dll
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\EntityFramework.xml
+c:\Users\JOELTVA\Documents\Visual Studio 2015\Projects\LunchSwitch\LunchSwitch\bin\Debug\EntityFramework.SqlServer.xml
